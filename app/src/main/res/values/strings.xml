@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Umbrella</string>
+    <string name="zip">Zip</string>
+    <string name="units">Units</string>
+    <string name="error_zip">Error Incorrect\nzip code</string>
+    <string name= "degree">º</string>
+    <string-array name="units">
+        <item>Farhenheit</item>
+        <item>Celcius</item>
+    </string-array>
+</resources>
